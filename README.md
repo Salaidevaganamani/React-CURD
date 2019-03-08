@@ -4,6 +4,28 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+## runing JSON server
+
+First install JSON server
+
+### `npm install -g json-server`
+
+Alerady db.json was there in the reposititory
+
+open new terminal, go to the directory db.json file.
+
+start JSON server.
+
+### `json-server --watch db.json`
+
+Now if you go to http://localhost:3000, you'll get JSON data.
+
+## start react app
+
+open aagain new terminal, go to the directory.
+
+Start react App
+
 ### `npm start`
 
 Runs the app in the development mode.<br>
