@@ -10,7 +10,7 @@ First install JSON server
 
 ### `npm install -g json-server`
 
-Alerady ##db.json file is there in the reposititory
+**db.json** file is there in the reposititory
 
 open new terminal, go to the directory path db.json file.
 
